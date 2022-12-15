@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(245, 184, 184);
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color:blueviolet;
+}
+
+.nav-container{
+    background-color: brown;
+
+    list-style:none;
+}
+
+.nav-link a{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+
+}
+
+.nav-link a:hover{
+    color:blueviolet;
+}
